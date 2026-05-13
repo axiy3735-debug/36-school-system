@@ -27,7 +27,7 @@ authDomain:"school-system-54307.firebaseapp.com",
 
 projectId:"school-system-54307",
 
-storageBucket:"school-system-54307.firebasestorage.app",
+storageBucket:"school-system-54307.appspot.com",
 
 messagingSenderId:"646293166289",
 
